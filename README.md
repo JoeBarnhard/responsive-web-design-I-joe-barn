@@ -6,11 +6,11 @@ It's time to expand our CSS skills into multiple devices.  You will be creating 
 
 Follow these steps to set up and work on your project:
 
-- [ ] Create a forked copy of this project.
-- [ ] Add your project manager as collaborator on Github.
-- [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
-- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+- [*] Create a forked copy of this project.
+- [*] Add your project manager as collaborator on Github.
+- [*] Clone your OWN version of the repository (Not Lambda's by mistake!).
+- [*] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [*] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
 - [ ] Push commits: git push origin `<firstName-lastName>`.
  
 Follow these steps for completing your project.
@@ -31,4 +31,4 @@ Follow these steps for completing your project.
 * [ ] Once you have completed the project with max-width media queries, start over with min-width media queries to get a feel for how a mobile first approach would be like.  I recommend making a copy of all your contents in a new folder named "mobile-first" to keep it separate
 
 
-
+## I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times. -Bruce Lee
